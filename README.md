@@ -12,7 +12,7 @@
 
 ### Which positions have the greatest need for future employees?
 - The table below has the total number of employees preparing for retirement grouped by job title. Most employees preparing for retirement have Senior job titles. The 'Senior Engineer' and 'Senior Staff' titles are the positions most in need of fututre replacements.  
-![retiring_titles.csv](https://github.com/JocquiBrown/Pewlett-Hackard-Analysis/files/10737412/retiring_titles.csv)
+![PH_Challenge_Screenshot_3_RetiringCounts](https://user-images.githubusercontent.com/120291854/218888550-52d7d6e6-8a37-4ef1-855a-d877d3619e6a.png)
 
 ### Who's eligible for the mentorship program and how many employees are eligible?
 - The table below provides a snapshot of the employees eligible for the mentorship program. All current Pewlett-Hackard employees born in 1965 are eligible for the program. We currently have 1,549 employees eligible to be mentors. 
